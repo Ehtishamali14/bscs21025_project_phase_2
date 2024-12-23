@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "image": "/img/img1.jpg",
+      "title": "Beachfront Paradise",
+      "type": "Entire home",
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 200,
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "image": "/img/img2.jpg",
+      "title": "Mountain Cabin",
+      "type": "Cabin",
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "price": 150,
+      "rating": 4.8
+    }
+    
+  ]
+  
